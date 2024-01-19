@@ -24,6 +24,8 @@ In code along part:
 6. Transfer 5 LINKs to `sender.sol`. 
 7. Call the function `sendMessage` with sepolia selector and receiver address.
 
+<b> Leave your address if you need test tokens on Sepolia in https://pad.riseup.net/p/NTU_Bootcamp_day2 </b>
+
 ## References:
 Data Feed materials:
 - Please find more details about Data Feed [here](https://docs.chain.link/data-feeds).
